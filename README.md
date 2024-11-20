@@ -1,3 +1,5 @@
+**_THIS IS A MIRRORED VERSION OF AN INTERNAL PRODUCTION ETL REPOSITORY LAST UPDATED 2024-11-20_**
+
 # phillyvotes-assetmanagement
 _Principal Author: James Midkiff (CityGeo)_  
 _Author of_ dag_trigger.py: _Roland MacDavid (CityGeo)_  
