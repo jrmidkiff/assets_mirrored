@@ -1,0 +1,6 @@
+.env
+.vscode/
+__pycache__/
+asset_data.xlsx
+config-secret*
+config_secret*
